@@ -2,7 +2,7 @@
 
 # TextFileAnalyzer
 
-A simple C# .NET console application that analyzes a text file and reports:
+A .NET console application that analyzes a text file and reports:
 - Total number of lines
 - Total number of words
 - Most frequent word(s)
